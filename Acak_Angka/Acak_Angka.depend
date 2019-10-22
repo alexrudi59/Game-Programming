@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1571067582 source:c:\users\user\desktop\acak_angka\main.cpp
+	<iostream>
+	<ctime>
+	<stdlib.h>
+

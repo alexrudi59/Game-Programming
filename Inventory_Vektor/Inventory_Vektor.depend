@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1571073179 source:c:\users\user\desktop\inventory_vektor\main.cpp
+	<iostream>
+	<vector>
+	<string>
+	<ctime>
+	<cstdlib>
+
